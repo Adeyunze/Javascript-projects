@@ -18,7 +18,7 @@ div {
     justify-content: center;
     align-items: center;
     margin: auto;
-    line-height: 80px;
+    line-height: 60px;
 }
 
 h1 {
@@ -26,7 +26,7 @@ h1 {
 }
 
 p {
-    font-size: 22px;
+    font-size: 20px;
 }
 
 h1,
@@ -34,6 +34,6 @@ p {
     color: #D81A2E;
 }
 
-{
+p {
     color: #D81A2E;
 }
